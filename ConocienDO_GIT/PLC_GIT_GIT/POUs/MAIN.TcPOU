@@ -11,7 +11,10 @@ END_VAR
 //no jala //
 // primer cosa ///
 
-//main//]]></ST>
+//main//
+
+
+//change descono//]]></ST>
     </Implementation>
   </POU>
 </TcPlcObject>
