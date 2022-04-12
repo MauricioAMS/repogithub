@@ -14,7 +14,10 @@ END_VAR
 //main//
 
 
-//change descono//]]></ST>
+//change descono//
+
+
+///no bien //]]></ST>
     </Implementation>
   </POU>
 </TcPlcObject>
