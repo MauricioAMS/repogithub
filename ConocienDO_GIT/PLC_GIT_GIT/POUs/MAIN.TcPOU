@@ -9,7 +9,9 @@ END_VAR
       <ST><![CDATA[// PRUEBA PARA EL MAIN EN LUGAR DEL MASTER//
 
 //no jala //
-// primer cosa ///]]></ST>
+// primer cosa ///
+
+//main//]]></ST>
     </Implementation>
   </POU>
 </TcPlcObject>
