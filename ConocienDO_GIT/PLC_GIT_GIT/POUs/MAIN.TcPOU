@@ -17,7 +17,11 @@ END_VAR
 //change descono//
 
 
-///no bien //]]></ST>
+///no bien //
+
+
+
+///// PDUB XSE //]]></ST>
     </Implementation>
   </POU>
 </TcPlcObject>
