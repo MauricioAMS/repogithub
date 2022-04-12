@@ -8,7 +8,8 @@ END_VAR
     <Implementation>
       <ST><![CDATA[// PRUEBA PARA EL MAIN EN LUGAR DEL MASTER//
 
-//no jala //]]></ST>
+//no jala //
+// primer cosa ///]]></ST>
     </Implementation>
   </POU>
 </TcPlcObject>
